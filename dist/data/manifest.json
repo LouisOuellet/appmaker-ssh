@@ -1,13 +1,13 @@
 {
     "repository": {
         "name": "appmaker-ssh",
-        "branch": "dev",
+        "branch": "pre-release",
         "manifest": "\/dist\/data\/manifest.json",
         "host": {
             "git": "git@github.com:LouisOuellet\/appmaker-ssh"
         }
     },
     "name": "ssh",
-    "build": 3,
-    "version": "22.05-dev"
+    "build": 4,
+    "version": "22.05-pre-release"
 }
